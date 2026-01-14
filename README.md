@@ -13,13 +13,19 @@ Just a notebook.
 
 ## Tip 提醒
 
-推荐使用 Markdown 阅读器打开（支持 GFM）。
+推荐使用 PDF 阅读器打开（支持 GFM）。
 
-Suggest prefer to using Markdown Reader,which supports GFM(Github Flavored Markdown),to read all Markdown Documents.
+It is recommended to use a PDF reader.
 
-如果没有 Markdown 阅读器，可以打开一旁的 PDF 文件，二者内容始终保持同步。
+## Update Log 更新日志
 
-Anything else,you can also choose the PDF document beside it with the same content all of the time.
+**Github Commit - Explain**
+
+1. upd v1.0.1 on Jan.12th,2026
+    - update `README.md` 结束 `README.md` 目录施工。
+    - update `P10049.md` 结束 `P10049.md` 内容撰写与 PDF 发布。
+    - update `PrimeFactorization.md` 结束 `PrimeFactorization.md` 内容撰写与 PDF 发布。
+    - update `BitOperator.md` 挖坑待填。
 
 ## Menu 目录
 
@@ -102,11 +108,19 @@ Looking for everything you want in this folder!
         1. [PDF](/数据结构/Matrix/Matrix.pdf)
         2. [Markdown](/数据结构/Matrix/Matrix.md)
 
-## Update Log 更新日志
+- [Number Theory数论](/数论/)
 
-**Github Commit - Explain**
+    - [Prime Factorization 质因数分解](/数论/质因数分解/PrimeFactorization.md)
 
-1. upd v1.0.1 on Jan.12th,2026
-    - update `README.md` 结束 `README.md` 目录施工
-    - update `P10049.md` 结束 `P10049.md` 内容撰写与 PDF 发布
+        1. [PDF](/数论/质因数分解/PrimeFactorization.pdf)
+        2. [Markdown](/数论/质因数分解/PrimeFactorization.md)
+
+    - [Bit Operator 位运算](/数论/位运算/BitOperator.md)
+
+        ~~**本章节正在施工中**~~
+
+        1. [PDF](/数论/位运算/BitOperator.pdf)
+        2. [Markdown](/数论/位运算/BitOperator.md)
+
+
 
