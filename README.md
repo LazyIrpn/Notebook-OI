@@ -26,6 +26,9 @@ It is recommended to use a PDF reader.
     - update `P10049.md` 结束 `P10049.md` 内容撰写与 PDF 发布。
     - update `PrimeFactorization.md` 结束 `PrimeFactorization.md` 内容撰写与 PDF 发布。
     - update `BitOperator.md` 挖坑待填。
+    - update `IndeterminateEquation.md` 挖坑待填。
+    - update `Inverse.md` 施工中。
+    - update `PrimeFactorization.md` 施工完毕。
 
 ## Menu 目录
 
