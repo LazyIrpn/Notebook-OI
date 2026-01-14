@@ -15,7 +15,7 @@ Just a notebook.
 
 推荐使用 Markdown 阅读器打开（支持 GFM）。
 
-Suggest using Markdown Reader,which supports GFM(Github Flavored Markdown),to read all Markdown Documents
+Suggest prefer to using Markdown Reader,which supports GFM(Github Flavored Markdown),to read all Markdown Documents.
 
 如果没有 Markdown 阅读器，可以打开一旁的 PDF 文件，二者内容始终保持同步。
 
