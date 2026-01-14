@@ -21,11 +21,12 @@ It is recommended to use a PDF reader.
 
 **Github Commit - Explain**
 
-1. upd v1.0.1 on Jan.12th,2026
+1. upd v1.0.1 on Jan 12th,2026
     - update `README.md` 结束 `README.md` 目录施工。
     - update `P10049.md` 结束 `P10049.md` 内容撰写与 PDF 发布。
     - update `PrimeFactorization.md` 结束 `PrimeFactorization.md` 内容撰写与 PDF 发布。
     - update `BitOperator.md` 挖坑待填。
+2. upd v1.0.2 on Jan 14th,2026
     - update `IndeterminateEquation.md` 挖坑待填。
     - update `Inverse.md` 施工中。
     - update `PrimeFactorization.md` 施工完毕。
