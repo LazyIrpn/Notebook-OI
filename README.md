@@ -13,9 +13,11 @@ Just a notebook.
 
 ## Tip 提醒
 
-推荐使用 PDF 阅读器打开（支持 GFM）。
+推荐使用 markdown 阅读器打开(支持 markdown 扩展语法)。
 
-It is recommended to use a PDF reader.
+提示:除 `README.md` 中提供 PDF 链接外，其他链接均指向 markdown 文件。可以在 `.md` 文件的同一目录下
+
+It is recommended to use a markdown reader,supported enhanced markdown grammar.
 
 ## Update Log 更新日志
 
@@ -30,6 +32,11 @@ It is recommended to use a PDF reader.
     - update `IndeterminateEquation.md` 挖坑待填。
     - update `Inverse.md` 施工中。
     - update `PrimeFactorization.md` 施工完毕。
+
+3. upd v1.0.3 on Jan 16th,2026
+    - 更新平衡树相关内容，持续施工中。
+    - 创建 `/gnu_cxx/` 用于记录实用的非 STL 函数。
+    - 更新 `README.md` 的部分说明。
 
 ## Menu 目录
 
