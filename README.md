@@ -23,23 +23,26 @@ It is recommended to use a markdown reader,supported [**enhanced markdown gramma
 
 **Github Commit - Explain**
 
-1. upd v1.0.1 on Jan 12th,2026
+1. **update v1.0.1 on Jan 12th,2026**
     - update `README.md` 结束 `README.md` 目录施工。
     - update `P10049.md` 结束 `P10049.md` 内容撰写与 PDF 发布。
     - update `PrimeFactorization.md` 结束 `PrimeFactorization.md` 内容撰写与 PDF 发布。
     - update `BitOperator.md` 挖坑待填。
-2. upd v1.0.2 on Jan 14th,2026
+2. **update v1.0.2 on Jan 14th,2026**
     - update `IndeterminateEquation.md` 挖坑待填。
     - update `Inverse.md` 施工中。
     - update `PrimeFactorization.md` 施工完毕。
 
-3. upd v1.0.3 on Jan 16th,2026
+3. **update v1.0.3 on Jan 16th,2026**
     - 更新平衡树相关内容，持续施工中。
     - 创建 `/gnu_cxx/` 用于记录实用的非 STL 函数。
     - 更新 `README.md` 的部分说明。
 
-4. upd v1.0.4 on Jan 20th,2026
+4. **update v1.0.4 on Jan 20th,2026**
     - 更新 `rope` 相关内容。
+    - **update v1.0.4.1 on Jan 20th,2026**
+        - 修复了部分文件的命名规范
+        - 完善了 `README.md` 中目录和更新的内容
 
 ## Menu 目录
 
@@ -123,7 +126,6 @@ Looking for everything you want in this folder!
         2. [Markdown](/数据结构/Matrix/Matrix.md)
 
 - [Number Theory数论](/数论/)
-
     - [Prime Factorization 质因数分解](/数论/质因数分解/PrimeFactorization.md)
 
         1. [PDF](/数论/质因数分解/PrimeFactorization.pdf)
@@ -136,5 +138,17 @@ Looking for everything you want in this folder!
         1. [PDF](/数论/位运算/BitOperator.pdf)
         2. [Markdown](/数论/位运算/BitOperator.md)
 
+- [EXT](/EXT/)
 
+    - [__gnu_cxx](/EXT/__gnu_cxx/)
+
+        1. [PDF](/EXT/__gnu_cxx/rope.pdf)
+        2. [Markdown](/EXT/__gnu_cxx/rope.md)
+    
+    - [__gnu_pbds](/EXT/__gnu_pbds/)
+
+        1. [PDF](/EXT/__gnu_pbds/pbds.pdf)
+        2. [Markdown](/EXT/__gnu_pbds/pbds.md)
+
+        
 
