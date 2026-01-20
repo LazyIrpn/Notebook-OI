@@ -17,6 +17,8 @@ Just a notebook.
 
 提示:除 `README.md` 中提供 PDF 链接外，其他链接均指向 markdown 文件。可以在 `.md` 文件的同一目录下找到对应的 PDF 文档。
 
+==由于不可控力，所有markdown中的链接全部失效，原因未知，可在`README.md` 中找到对应链接==
+
 It is recommended to use a markdown reader,supported [**enhanced markdown grammar**](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%e6%89%a9%e5%b1%95%e7%9a%84%e8%af%ad%e6%b3%95).
 
 ## Update Log 更新日志
@@ -43,6 +45,9 @@ It is recommended to use a markdown reader,supported [**enhanced markdown gramma
     - **update v1.0.4.1 on Jan 20th,2026**
         - 修复了部分文件的命名规范
         - 完善了 `README.md` 中目录和更新的内容
+    - **update v1.0.4.2 on Jan 20th,2026**
+        - 紧急修复了`README.md` 中部分链接错误
+
 
 ## Menu 目录
 
@@ -50,105 +55,98 @@ It is recommended to use a markdown reader,supported [**enhanced markdown gramma
 
 Looking for everything you want in this folder!
 
-- [STL模板库](/STL/)
+- [STL模板库](./STL/)
 
-    1. [PDF](/STL/STL.pdf)
-    2. [Markdown](/STL/STL.md)
+    1. [PDF](./STL/STL.pdf)
+    2. [Markdown](./STL/STL.md)
 
-- [Graph Theory图论](/图论/)
+- [Graph Theory图论](./图论/)
 
-    - [Shortest Path Algorithm 最短路算法](/图论/ShortestPath/)
+    - [Shortest Path Algorithm 最短路算法](./图论/ShortestPath/)
+        1. [PDF](./图论/ShortestPath/ShortestPath.pdf)
+        2. [Markdown](./图论/ShortestPath/ShortestPath.md)
 
-        1. [PDF](/图论/ShortestPath/ShortestPath.pdf)
-        2. [Markdown](/图论/ShortestPath/ShortestPath.md)
+    - [DiffConstraints 查分约束——最短路应用](./图论/DiffConstraints/)
 
-    - [DiffConstraints 查分约束——最短路应用](/图论/DiffConstraints/)
+        1. [PDF](./图论/DiffConstraints/DC.pdf)
+        2. [Markdown](./图论/DiffConstraints/DC.md)
 
-        1. [PDF](/图论/DiffConstraints/DC.pdf)
-        2. [Markdown](/图论/DiffConstraints/DC.md)
+    - [Connectivity 连通性问题](./图论/Connectivity/)
 
-    - [Connectivity 连通性问题](/图论/Connectivity/)
+        - [SCC 强联通分量](./图论/Connectivity/SCC)
+            1. [PDF](./图论/Connectivity/SCC/SCC.pdf)
+            2. [Markdown](./图论/Connectivity/SCC/SCC.md)
 
-        - [SCC 强联通分量](/图论/Connectivity/SCC)
+        - [DCC 双联通分量](./图论/Connectivity/DCC/)
 
-            1. [PDF](/图论/Connectivity/SCC/SCC.pdf)
-            2. [Markdown](/图论/Connectivity/SCC/SCC.md)
+            1. [PDF](./图论/Connectivity/DCC/DCC.pdf)
+            2. [Markdown](./图论/Connectivity/DCC/DCC.md)
 
-        - [DCC 双联通分量](/图论/Connectivity/DCC/)
+    - [MST 最小生成树](./图论/MST/)
 
-            1. [PDF](/图论/Connectivity/DCC/DCC.pdf)
-            2. [Markdown](/图论/Connectivity/DCC/DCC.md)
+        1. [PDF](./图论/MST/MST.pdf)
+        2. [Markdown](./图论/MST/MST.md)
 
-    - [MST 最小生成树](/图论/MST/)
+    - [Tree 树相关](./图论/Tree/)
 
-        1. [PDF](/图论/MST/MST.pdf)
-        2. [Markdown](/图论/MST/MST.md)
+        - [LCA 最近公共祖先](./图论/Tree/LCA/)
 
-    - [Tree 树相关](/图论/Tree/)
+            1. [PDF](./图论/Tree/LCA/LCA.pdf)
+            2. [Markdown](./图论/Tree/LCA/LCA.md)
 
-        - [LCA 最近公共祖先](/图论/Tree/LCA/)
+        - [TreeDiameter 树的直径](./图论/Tree/TreeDiameter/)
 
-            1. [PDF](/图论/Tree/LCA/LCA.pdf)
-            2. [Markdown](/图论/Tree/LCA/LCA.md)
+        1. [PDF](./图论/Tree/TreeDiameter/TD.pdf)
+        2. [Markdown](./图论/Tree/TreeDiameter/TD.md)
 
-        - [TreeDiameter 树的直径](/图论/Tree/TreeDiameter/)
+- [Data Structures数据结构](./数据结构/)
 
-        1. [PDF](/图论/Tree/TreeDiameter/TD.pdf)
-        2. [Markdown](/图论/Tree/TreeDiameter/TD.md)
+    - [DSU 并查集](./数据结构/DSU/)
 
-- [Data Structures数据结构](/数据结构/)
+        1. [PDF](./数据结构/DSU/DSU.pdf)
+        2. [Markdown](./数据结构/DSU/DSU.md)
 
-    - [DSU 并查集](/数据结构/DSU/)
+    - [Segment Tree 线段树](./数据结构/SegmentTree/)
 
-        1. [PDF](/数据结构/DSU/DSU.pdf)
-        2. [Markdown](/数据结构/DSU/DSU.md)
+        1. [PDF](./数据结构/SegmentTree/SegmentTree.pdf)
+        2. [Markdown](./数据结构/SegmentTree/SegmentTree.md)
 
-    - [Segment Tree 线段树](/数据结构/SegmentTree/)
+    - [Sparse Table 稀疏表](./数据结构/SparseTable/)
 
-        1. [PDF](/数据结构/SegmentTree/SegmentTree.pdf)
-        2. [Markdown](/数据结构/SegmentTree/SegmentTree.md)
+        1. [PDF](./数据结构/SparseTable/SparseTable.pdf)
+        2. [Markdown](./数据结构/SparseTable/SparseTable.md)
 
-    - [Sparse Table 稀疏表](/数据结构/SparseTable/)
-
-        1. [PDF](/数据结构/SparseTable/SparseTable.pdf)
-        2. [Markdown](/数据结构/SparseTable/SparseTable.md)
-
-    - [TrieTree 字典树](/数据结构/TrieTree/)
+    - [TrieTree 字典树](./数据结构/TrieTree/)
 
         ~~**本章节正在施工中**~~
 
-        1. [PDF](/数据结构/TrieTree/Trie.pdf)
-        2. [Markdown](/数据结构/TrieTree/Trie.md)
+        1. [PDF](./数据结构/TrieTree/Trie.pdf)
+        2. [Markdown](./数据结构/TrieTree/Trie.md)
 
-    - [Matrix](/数据结构/Matrix/)
+    - [Matrix](./数据结构/Matrix/)
 
-        1. [PDF](/数据结构/Matrix/Matrix.pdf)
-        2. [Markdown](/数据结构/Matrix/Matrix.md)
+        1. [PDF](./数据结构/Matrix/Matrix.pdf)
+        2. [Markdown](./数据结构/Matrix/Matrix.md)
 
-- [Number Theory数论](/数论/)
-    - [Prime Factorization 质因数分解](/数论/质因数分解/PrimeFactorization.md)
+- [Number Theory数论](./数论/)
+    - [Prime Factorization 质因数分解](./数论/质因数分解/PrimeFactorization.md)
 
-        1. [PDF](/数论/质因数分解/PrimeFactorization.pdf)
-        2. [Markdown](/数论/质因数分解/PrimeFactorization.md)
-
-    - [Bit Operator 位运算](/数论/位运算/BitOperator.md)
+        1. [PDF](./数论/质因数分解/PrimeFactorization.pdf)
+        2. [Markdown](./数论/质因数分解/PrimeFactorization.md)
+    - [Bit Operator 位运算](./数论/位运算/BitOperator.md)
 
         ~~**本章节正在施工中**~~
 
-        1. [PDF](/数论/位运算/BitOperator.pdf)
-        2. [Markdown](/数论/位运算/BitOperator.md)
+        1. [PDF](./数论/位运算/BitOperator.pdf)
+        2. [Markdown](./数论/位运算/BitOperator.md)
 
-- [EXT](/EXT/)
+- [EXT](./EXT/)
 
-    - [__gnu_cxx](/EXT/__gnu_cxx/)
+    - [__gnu_cxx](./EXT/__gnu_cxx/)
 
-        1. [PDF](/EXT/__gnu_cxx/rope.pdf)
-        2. [Markdown](/EXT/__gnu_cxx/rope.md)
+        1. [PDF](./EXT/__gnu_cxx/rope.pdf)
+        2. [Markdown](./EXT/__gnu_cxx/rope.md)
     
-    - [__gnu_pbds](/EXT/__gnu_pbds/)
-
-        1. [PDF](/EXT/__gnu_pbds/pbds.pdf)
-        2. [Markdown](/EXT/__gnu_pbds/pbds.md)
-
-        
-
+    - [__gnu_pbds](./EXT/__gnu_pbds/)
+        1. [PDF](./EXT/__gnu_pbds/pbds.pdf)
+        2. [Markdown](./EXT/__gnu_pbds/pbds.md)
