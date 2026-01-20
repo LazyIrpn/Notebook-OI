@@ -13,11 +13,11 @@ Just a notebook.
 
 ## Tip 提醒
 
-推荐使用 markdown 阅读器打开(支持 markdown 扩展语法)。
+推荐使用 markdown 阅读器打开 ( 支持 markdown [**扩展语法**](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%e6%89%a9%e5%b1%95%e7%9a%84%e8%af%ad%e6%b3%95))。
 
-提示:除 `README.md` 中提供 PDF 链接外，其他链接均指向 markdown 文件。可以在 `.md` 文件的同一目录下
+提示:除 `README.md` 中提供 PDF 链接外，其他链接均指向 markdown 文件。可以在 `.md` 文件的同一目录下找到对应的 PDF 文档。
 
-It is recommended to use a markdown reader,supported enhanced markdown grammar.
+It is recommended to use a markdown reader,supported [**enhanced markdown grammar**](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%e6%89%a9%e5%b1%95%e7%9a%84%e8%af%ad%e6%b3%95).
 
 ## Update Log 更新日志
 
@@ -37,6 +37,9 @@ It is recommended to use a markdown reader,supported enhanced markdown grammar.
     - 更新平衡树相关内容，持续施工中。
     - 创建 `/gnu_cxx/` 用于记录实用的非 STL 函数。
     - 更新 `README.md` 的部分说明。
+
+4. upd v1.0.4 on Jan 20th,2026
+    - 更新 `rope` 相关内容。
 
 ## Menu 目录
 
