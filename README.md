@@ -17,7 +17,9 @@ Just a notebook.
 
 提示:除 `README.md` 中提供 PDF 链接外，其他链接均指向 markdown 文件。可以在 `.md` 文件的同一目录下找到对应的 PDF 文档。
 
-==由于不可控力，所有markdown中的链接全部失效，原因未知，可在`README.md` 中找到对应链接==
+
+!!! error 链接失效提醒
+    **由于未知原因，本地文件所有 `markdown` 中的链接全部失效，可在`README.md` 中查看文件夹结构找到对应链接，或直接在 github 中打开**
 
 It is recommended to use a markdown reader,supported [**enhanced markdown grammar**](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%e6%89%a9%e5%b1%95%e7%9a%84%e8%af%ad%e6%b3%95).
 
@@ -47,7 +49,8 @@ It is recommended to use a markdown reader,supported [**enhanced markdown gramma
         - 完善了 `README.md` 中目录和更新的内容
     - **update v1.0.4.2 on Jan 20th,2026**
         - 紧急修复了`README.md` 中部分链接错误
-
+    - **update v1.0.4.3 on Jan 20th,2026**
+        - 修缮了 `README.md` 部分文字说明。
 
 ## Menu 目录
 
