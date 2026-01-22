@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 # 逆元
@@ -79,5 +80,5 @@ int inverse = qpow(b-1,mod-2)
 
 $ax\equiv 1\pmod p$ 可转换成一个 丢番图方程 的形式：$ax - bp = 1$
 
-通过[线性同余方程](/数论/丢番图方程/IndeterminateEquation.md)求解。
+通过[线性同余方程](/数论/丢番图方程/IndeterminateEquation.html)求解。
 

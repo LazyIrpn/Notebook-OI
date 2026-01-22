@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 # STL容器成员函数速查表

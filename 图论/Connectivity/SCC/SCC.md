@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 # 强联通分量（SCC）—— Tarjan

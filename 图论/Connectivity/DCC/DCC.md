@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 # 双连通分量（DCC）——Tarjan

@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 # 平衡树 Rope

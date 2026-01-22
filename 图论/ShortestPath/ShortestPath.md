@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 
@@ -406,4 +407,4 @@ if(dis[v][k_v] > /*B*/){
 
 使用查分约束把不等式组的求解建模为图论最短路的问题。
 
-见 [DiffConstraints](../DiffConstraints/DC.md)。
+见 [DiffConstraints](../DiffConstraints/DC.html)。

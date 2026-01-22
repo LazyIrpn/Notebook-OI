@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 # README 使用指南
@@ -13,15 +14,16 @@ Just a notebook.
 
 ## Tip 提醒
 
-推荐使用 markdown 阅读器打开 ( 支持 markdown [**扩展语法**](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%e6%89%a9%e5%b1%95%e7%9a%84%e8%af%ad%e6%b3%95))。
+!!! Success 已修复
+    所有失效链接已修复，推荐使用浏览器打开 HTML！
 
-提示:除 `README.md` 中提供 PDF 链接外，其他链接均指向 markdown 文件。可以在 `.md` 文件的同一目录下找到对应的 PDF 文档。
+推荐：使用 HTML 阅读器打开。
 
+最低限度：文本阅读器查看 `Markdown` 文本内容
 
-!!! error 链接失效提醒
-    **由于未知原因，本地文件所有 `markdown` 中的链接全部失效，可在`README.md` 中查看文件夹结构找到对应链接，或直接在 github 中打开**
+提供 PDF 供打印。
 
-It is recommended to use a markdown reader,supported [**enhanced markdown grammar**](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%e6%89%a9%e5%b1%95%e7%9a%84%e8%af%ad%e6%b3%95).
+It is recommended to use a HTML reader.
 
 ## Update Log 更新日志
 
@@ -52,6 +54,11 @@ It is recommended to use a markdown reader,supported [**enhanced markdown gramma
     - **update v1.0.4.3 on Jan 20th,2026**
         - 修缮了 `README.md` 部分文字说明。
 
+5. **update v1.1.0 on Jan 21th,2026**
+    - 更新了所有的链接。
+    - 切换主要阅读模式至网页阅读。
+    - 生成了所有 `Markdown` 的 HTML 内容。
+
 ## Menu 目录
 
 在这里找到你想要的一切！
@@ -61,95 +68,95 @@ Looking for everything you want in this folder!
 - [STL模板库](./STL/)
 
     1. [PDF](./STL/STL.pdf)
-    2. [Markdown](./STL/STL.md)
+    2. [HTML](./STL/STL.html)
 
 - [Graph Theory图论](./图论/)
 
     - [Shortest Path Algorithm 最短路算法](./图论/ShortestPath/)
         1. [PDF](./图论/ShortestPath/ShortestPath.pdf)
-        2. [Markdown](./图论/ShortestPath/ShortestPath.md)
+        2. [HTML](./图论/ShortestPath/ShortestPath.html)
 
     - [DiffConstraints 查分约束——最短路应用](./图论/DiffConstraints/)
 
         1. [PDF](./图论/DiffConstraints/DC.pdf)
-        2. [Markdown](./图论/DiffConstraints/DC.md)
+        2. [HTML](./图论/DiffConstraints/DC.html)
 
     - [Connectivity 连通性问题](./图论/Connectivity/)
 
         - [SCC 强联通分量](./图论/Connectivity/SCC)
             1. [PDF](./图论/Connectivity/SCC/SCC.pdf)
-            2. [Markdown](./图论/Connectivity/SCC/SCC.md)
+            2. [HTML](./图论/Connectivity/SCC/SCC.html)
 
         - [DCC 双联通分量](./图论/Connectivity/DCC/)
 
             1. [PDF](./图论/Connectivity/DCC/DCC.pdf)
-            2. [Markdown](./图论/Connectivity/DCC/DCC.md)
+            2. [HTML](./图论/Connectivity/DCC/DCC.html)
 
     - [MST 最小生成树](./图论/MST/)
 
         1. [PDF](./图论/MST/MST.pdf)
-        2. [Markdown](./图论/MST/MST.md)
+        2. [HTML](./图论/MST/MST.html)
 
     - [Tree 树相关](./图论/Tree/)
 
         - [LCA 最近公共祖先](./图论/Tree/LCA/)
 
             1. [PDF](./图论/Tree/LCA/LCA.pdf)
-            2. [Markdown](./图论/Tree/LCA/LCA.md)
+            2. [HTML](./图论/Tree/LCA/LCA.html)
 
         - [TreeDiameter 树的直径](./图论/Tree/TreeDiameter/)
 
         1. [PDF](./图论/Tree/TreeDiameter/TD.pdf)
-        2. [Markdown](./图论/Tree/TreeDiameter/TD.md)
+        2. [HTML](./图论/Tree/TreeDiameter/TD.html)
 
 - [Data Structures数据结构](./数据结构/)
 
     - [DSU 并查集](./数据结构/DSU/)
 
         1. [PDF](./数据结构/DSU/DSU.pdf)
-        2. [Markdown](./数据结构/DSU/DSU.md)
+        2. [HTML](./数据结构/DSU/DSU.html)
 
     - [Segment Tree 线段树](./数据结构/SegmentTree/)
 
         1. [PDF](./数据结构/SegmentTree/SegmentTree.pdf)
-        2. [Markdown](./数据结构/SegmentTree/SegmentTree.md)
+        2. [HTML](./数据结构/SegmentTree/SegmentTree.html)
 
     - [Sparse Table 稀疏表](./数据结构/SparseTable/)
 
         1. [PDF](./数据结构/SparseTable/SparseTable.pdf)
-        2. [Markdown](./数据结构/SparseTable/SparseTable.md)
+        2. [HTML](./数据结构/SparseTable/SparseTable.html)
 
     - [TrieTree 字典树](./数据结构/TrieTree/)
 
         ~~**本章节正在施工中**~~
 
         1. [PDF](./数据结构/TrieTree/Trie.pdf)
-        2. [Markdown](./数据结构/TrieTree/Trie.md)
+        2. [HTML](./数据结构/TrieTree/Trie.html)
 
     - [Matrix](./数据结构/Matrix/)
 
         1. [PDF](./数据结构/Matrix/Matrix.pdf)
-        2. [Markdown](./数据结构/Matrix/Matrix.md)
+        2. [HTML](./数据结构/Matrix/Matrix.html)
 
 - [Number Theory数论](./数论/)
-    - [Prime Factorization 质因数分解](./数论/质因数分解/PrimeFactorization.md)
+    - [Prime Factorization 质因数分解](./数论/质因数分解/PrimeFactorization.html)
 
         1. [PDF](./数论/质因数分解/PrimeFactorization.pdf)
-        2. [Markdown](./数论/质因数分解/PrimeFactorization.md)
-    - [Bit Operator 位运算](./数论/位运算/BitOperator.md)
+        2. [HTML](./数论/质因数分解/PrimeFactorization.html)
+    - [Bit Operator 位运算](./数论/位运算/BitOperator.html)
 
         ~~**本章节正在施工中**~~
 
         1. [PDF](./数论/位运算/BitOperator.pdf)
-        2. [Markdown](./数论/位运算/BitOperator.md)
+        2. [HTML](./数论/位运算/BitOperator.html)
 
 - [EXT](./EXT/)
 
     - [__gnu_cxx](./EXT/__gnu_cxx/)
 
         1. [PDF](./EXT/__gnu_cxx/rope.pdf)
-        2. [Markdown](./EXT/__gnu_cxx/rope.md)
+        2. [HTML](./EXT/__gnu_cxx/rope.html)
     
     - [__gnu_pbds](./EXT/__gnu_pbds/)
         1. [PDF](./EXT/__gnu_pbds/pbds.pdf)
-        2. [Markdown](./EXT/__gnu_pbds/pbds.md)
+        2. [HTML](./EXT/__gnu_pbds/pbds.html)

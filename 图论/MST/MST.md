@@ -1,6 +1,7 @@
 ---
 export_on_save:
   prince: true
+  html: true
 ---
 
 # 最小生成树（MST）—— Kruskal
@@ -8,8 +9,6 @@ export_on_save:
 **贪心策略**：每次选择**权重最小的边**加入生成树，同时避免形成环路
 
 可用于解决最小网络，最低价联通之类的问题
-
-
 
 ## 例题
 
