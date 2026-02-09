@@ -34,6 +34,7 @@ It is recommended to use a HTML reader.
     - update `P10049.md` 结束 `P10049.md` 内容撰写与 PDF 发布。
     - update `PrimeFactorization.md` 结束 `PrimeFactorization.md` 内容撰写与 PDF 发布。
     - update `BitOperator.md` 挖坑待填。
+
 2. **update v1.0.2 on Jan 14th,2026**
     - update `IndeterminateEquation.md` 挖坑待填。
     - update `Inverse.md` 施工中。
@@ -57,7 +58,12 @@ It is recommended to use a HTML reader.
 5. **update v1.1.0 on Jan 21th,2026**
     - 更新了所有的链接。
     - 切换主要阅读模式至网页阅读。
-    - 生成了所有 `Markdown` 的 HTML 内容。
+    - 生成了所有 `Markdown` 的 `HTML` 内容。
+
+6. **update v1.1.1 on Jan 23th,2026**
+    - 修复了`措(cuo)鳖(bie)子(zi)`。
+    - 更新了线段树的代码。
+
 
 ## Menu 目录
 
@@ -76,7 +82,7 @@ Looking for everything you want in this folder!
         1. [PDF](./图论/ShortestPath/ShortestPath.pdf)
         2. [HTML](./图论/ShortestPath/ShortestPath.html)
 
-    - [DiffConstraints 查分约束——最短路应用](./图论/DiffConstraints/)
+    - [DiffConstraints 差分约束——最短路应用](./图论/DiffConstraints/)
 
         1. [PDF](./图论/DiffConstraints/DC.pdf)
         2. [HTML](./图论/DiffConstraints/DC.html)
