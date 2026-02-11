@@ -1,6 +1,5 @@
 ---
 export_on_save:
-  prince: true
   html: true
 ---
 # 并查集（DSU）
