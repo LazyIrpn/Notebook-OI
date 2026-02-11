@@ -64,6 +64,8 @@ It is recommended to use a HTML reader.
     - 修复了`措(cuo)鳖(bie)子(zi)`。
     - 更新了线段树的代码。
 
+7. **update v1.1.2 on Feb 11th,2026**
+    - 完成了树链剖分（重链剖分）的部分，包括文字说明和例题代码。
 
 ## Menu 目录
 
